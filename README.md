@@ -1,6 +1,6 @@
-# Transparency & Truth in Advertising in the E-Commerce Industry
+# Transparency & Truth in the E-Commerce Industry
 
-## Overview
+## Project Overview
 
 This project analyzes the ethical implications of misleading advertising practices in e-commerce, including false product claims, manipulative marketing tactics, and undisclosed sponsored promotions. The study explores how deceptive marketing undermines consumer trust, distorts purchasing decisions, and creates unfair competitive advantages.
 
@@ -9,7 +9,7 @@ This project analyzes the ethical implications of misleading advertising practic
 - Examine ethical challenges in digital advertising.
 - Analyze the impact of misleading marketing on consumers and businesses.
 - Evaluate existing transparency policies.
-- Propose new policy solutions to improve accountability in online marketplaces.
+- Propose policy solutions to improve accountability in online marketplaces.
 
 ## Topics Covered
 
@@ -36,6 +36,21 @@ This project analyzes the ethical implications of misleading advertising practic
 - Technical writing
 - Business analysis
 
+## Project Documents
+
+This project was developed through three stages:
+
+1. **Proposal** — Defines the research question, objectives, and scope.
+2. **Case Study** — Examines Amazon's fight against fake reviews.
+3. **Final Report** — Presents the broader analysis of transparency and truth in e-commerce advertising.
+
+### Documents
+
+- [Project Proposal](Proposal/Transparency_Truth_Advertising_Proposal.pdf)
+- [Case Study: Amazon's Fight Against Fake Reviews](Case_Study/Amazon_Fight_Against_Fake_Reviews.pdf)
+- [Final Report](Final_Report/Transparency_Truth_Advertising_Ecommerce_Report.pdf)
+
+  
 ## Author
 
 Yande Ndiaye
