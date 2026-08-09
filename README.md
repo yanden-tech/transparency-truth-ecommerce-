@@ -47,7 +47,7 @@ This project was developed through three stages:
 ### Documents
 
 - [Project Proposal](Proposal/Transparency_Truth_Advertising_Proposal.pdf)
-- [Case Study: Amazon's Fight Against Fake Reviews](Case_Study/Amazon_Fight_Against_Fake_Reviews.pdf)
+- [Case Study: Amazon’s Fight Against Fake Reviews](Case_Study/Amazon_Fight_Against_Fake_Reviews.pdf)
 - [Final Report](Final_Report/Transparency_Truth_Advertising_Ecommerce_Report.pdf)
 
   
