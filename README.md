@@ -40,16 +40,14 @@ This project analyzes the ethical implications of misleading advertising practic
 
 This project was developed through three stages:
 
-1. **Proposal** — Defines the research question, objectives, and scope.
-2. **Case Study** — Examines Amazon's fight against fake reviews.
-3. **Final Report** — Presents the broader analysis of transparency and truth in e-commerce advertising.
+- `Transparency_Truth_Advertising_Proposal.pdf`  
+  Project proposal outlining the research question, objectives, and scope.
 
-### Documents
+- `Amazon_Fight_Against_Fake_Reviews.pdf`  
+  Case study examining Amazon's efforts to combat fake reviews.
 
-- [Project Proposal](Proposal/Transparency_Truth_Advertising_Proposal.pdf)
-- [Case Study: Amazon’s Fight Against Fake Reviews](Case_Study/Amazon_Fight_Against_Fake_Reviews.pdf)
-- [Final Report](Final_Report/Transparency_Truth_Advertising_Ecommerce_Report.pdf)
-
+- `Transparency_Truth_Advertising_Ecommerce_Report.pdf`  
+  Final report presenting the analysis of transparency, misleading advertising, consumer trust, and policy recommendations.
   
 ## Author
 
